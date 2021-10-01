@@ -22,6 +22,8 @@ public class Frequencies {
         // TODO code application logic here
 
         System.out.println("***********************");
+        System.out.println("**  Mr A.          ****");
+        System.out.println("***********************");
         
         String text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer quis sagittis velit, a tristique lectus. Pellentesque ut odio mattis, imperdiet tortor eu, rhoncus erat. Sed diam nibh, dictum non purus ac, dictum maximus risus. Duis ac tortor at quam porttitor ultrices ac sed metus. Donec ipsum lorem, iaculis id sapien vitae, eleifend maximus felis. Fusce vitae nisl at sapien iaculis tempor. Nunc vel luctus metus, et vehicula eros. Nulla facilisi. Sed ex felis, placerat eu risus ut, pharetra ultrices ex. Nulla viverra orci a tincidunt gravida. Aliquam erat volutpat. Maecenas sit amet enim massa. Pellentesque pulvinar id turpis sed mattis. In consectetur mi id sem blandit molestie.";
 
